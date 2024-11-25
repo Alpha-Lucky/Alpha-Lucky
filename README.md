@@ -18,6 +18,8 @@
 
 - **Системы экстренного оповещения:** Быстрое информирование в чрезвычайных ситуациях — задача, требующая точности и эффективности. Я реализовывал решения, которые помогают спасти жизни.
 
+- **Промт-инженерия:** В настоящее время я активно изучаю промт-инженерию и работу с моделями GPT. Это позволяет мне создавать более точные и эффективные запросы для получения нужных результатов.
+
 Каждый из этих проектов стал для меня не просто работой, а настоящим вызовом. Я стремлюсь к инновациям и готов решать самые сложные задачи.
 
 ## ✨ Образование
@@ -62,6 +64,8 @@ Since 2017, I have been immersed in the world of software development and mainte
 - **Fire Safety Software:** My work here was critically important. I participated in creating systems that ensure the safety of people and property. This isn't just a project; it's a responsibility.
 
 - **Emergency Notification Systems:** Rapid communication during emergencies is a task that requires precision and efficiency. I implemented solutions that help save lives.
+
+- **Prompt Engineering:** I am currently actively studying prompt engineering and working with GPT models. This allows me to create more accurate and effective queries to obtain the desired results.
 
 Each of these projects has been more than just work for me; they have been real challenges. I strive for innovation and am ready to tackle the most complex tasks.
 
