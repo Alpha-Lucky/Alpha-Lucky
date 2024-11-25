@@ -6,5 +6,5 @@
 - 09.03.03 Applied Informatics, Bachelor's Degree. 1000924 5276007
 - 23.07.2011 - 25.06.2015
 - 09.02.04 Information systems (by industry), Diploma of secondary vocational education. Qualification, Information Systems Technician. 110904 0000091.
-### ✨ Skills: JS, TS, React, Node.js, Express, Nest, mongodb, MySQL, MVC, REST/RESTful API, Linux, Nginx
+### ✨ Skills: GO, NodeJs, Python, SQL like databases, MongoDb, Unix-like systems, Git, Docker, Microservice architecture, MVC, Kubernetes, SOAP, HTTP, WS
 # 📫 Write me on okmic.g@gmail.com
